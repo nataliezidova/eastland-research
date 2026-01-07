@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches on Flower in the River: Eastland Disaster Research</title>
+    <link>https://example.org/research/</link>
+    <description>Recent content in Researches on Flower in the River: Eastland Disaster Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Forensic Feedback Loop: A Methodology for Disaster Research</title>
+      <link>https://example.org/research/forensic-feedback-loop/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/research/forensic-feedback-loop/</guid>
+      <description>Introduction Traditional disaster commemoration often freezes historical understanding at a specific moment, treating the event as closed and the victim count as final. This article proposes an alternative approach: the Forensic Feedback Loop, which treats historical disasters as ongoing investigations subject to continuous refinement through systematic research.&#xA;Components of the Forensic Feedback Loop 1. Forensic Genealogy Forensic genealogy applies law enforcement investigation techniques to historical research. This includes:&#xA;Systematic documentation with timestamped, legally admissible records Multiple source verification for every claim Pattern recognition across seemingly unrelated data sources Digital archaeology to track how information has been transformed or lost over time 2.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Flower in the River: Eastland Disaster Research</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on Flower in the River: Eastland Disaster Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal History</title>
+      <link>https://example.org/tags/personal-history/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/personal-history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pfeiffer Family</title>
+      <link>https://example.org/tags/pfeiffer-family/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/pfeiffer-family/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Western Electric</title>
+      <link>https://example.org/tags/western-electric/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/western-electric/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Czech Community</title>
+      <link>https://example.org/tags/czech-community/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/czech-community/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Missing Victims</title>
+      <link>https://example.org/tags/missing-victims/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/missing-victims/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>National Archives</title>
+      <link>https://example.org/tags/national-archives/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/national-archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Archaeology</title>
+      <link>https://example.org/tags/digital-archaeology/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/digital-archaeology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Forensic Genealogy</title>
+      <link>https://example.org/tags/forensic-genealogy/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/forensic-genealogy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Methodology</title>
+      <link>https://example.org/tags/methodology/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/methodology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blue</title>
+      <link>https://example.org/tags/blue/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>https://example.org/tags/blue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Green</title>
+      <link>https://example.org/tags/green/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>https://example.org/tags/green/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Red</title>
+      <link>https://example.org/tags/red/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>https://example.org/tags/red/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

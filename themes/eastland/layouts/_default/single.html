@@ -1,0 +1,29 @@
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  
+  <div class="meta">
+    Published: {{ .Date.Format "January 2, 2006" }}
+    {{ if .Params.episode_number }}| Episode {{ .Params.episode_number }}{{ end }}
+  </div>
+
+  <div class="content">
+    {{ .Content }}
+  </div>
+  
+  {{ if .Params.sources }}
+  <div class="citation">
+    <h3>Sources</h3>
+    {{ range .Params.sources }}
+    <p>{{ . }}</p>
+    {{ end }}
+  </div>
+  {{ end }}
+  
+  {{ if .Params.tags }}
+  <div class="meta">
+    Tags: {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}<a href="/tags/{{ $tag | urlize }}">{{ $tag }}</a>{{ end }}
+  </div>
+  {{ end }}
+</article>
+{{ end }}

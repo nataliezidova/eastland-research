@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="home">
+  {{ .Content }}
+  
+  <section>
+    <h2>Recent Podcast Episodes</h2>
+    <ul class="episode-list">
+    {{ range first 5 (where .Site.RegularPages "Section" "episodes") }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        <div class="meta">{{ .Date.Format "January 2, 2006" }}{{ if .Params.episode_number }} | Episode {{ .Params.episode_number }}{{ end }}</div>
+        {{ if .Summary }}<p>{{ .Summary }}</p>{{ end }}
+      </li>
+    {{ end }}
+    </ul>
+    <p><a href="/episodes/">View all episodes →</a></p>
+  </section>
+  
+  <section>
+    <h2>Recent Research</h2>
+    <ul class="research-list">
+    {{ range first 5 (where .Site.RegularPages "Section" "research") }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        <div class="meta">{{ .Date.Format "January 2, 2006" }}</div>
+        {{ if .Summary }}<p>{{ .Summary }}</p>{{ end }}
+      </li>
+    {{ end }}
+    </ul>
+    <p><a href="/research/">View all research →</a></p>
+  </section>
+</div>
+{{ end }}

@@ -1,0 +1,30 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Flower in the River: Eastland Disaster Research'
+theme = 'eastland'
+
+[params]
+  description = 'Documenting the individuals connected to the 1915 Eastland Disaster'
+  author = 'Natalie'
+  
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = 'Podcast Episodes'
+    url = '/episodes/'
+    weight = 2
+  [[menu.main]]
+    name = 'Research'
+    url = '/research/'
+    weight = 3
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 4

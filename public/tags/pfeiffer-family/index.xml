@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pfeiffer Family on Flower in the River: Eastland Disaster Research</title>
+    <link>https://example.org/tags/pfeiffer-family/</link>
+    <description>Recent content in Pfeiffer Family on Flower in the River: Eastland Disaster Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/pfeiffer-family/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Martha Pfeiffer: A Personal Connection</title>
+      <link>https://example.org/episodes/martha-pfeiffer/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/episodes/martha-pfeiffer/</guid>
+      <description>Martha Pfeiffer was my great-aunt, and her death in the Eastland Disaster has shaped my family&amp;rsquo;s understanding of tragedy and commemoration for generations. This episode explores what we know about Martha&amp;rsquo;s life and her connection to Western Electric.&#xA;Early Life Martha was born in Chicago in 1897 to German immigrant parents. By 1915, she was working at Western Electric, the company that had chartered the Eastland for its annual employee picnic.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Flower in the River: Eastland Disaster Research</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Home on Flower in the River: Eastland Disaster Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Martha Pfeiffer: A Personal Connection</title>
+      <link>https://example.org/episodes/martha-pfeiffer/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/episodes/martha-pfeiffer/</guid>
+      <description>Martha Pfeiffer was my great-aunt, and her death in the Eastland Disaster has shaped my family&amp;rsquo;s understanding of tragedy and commemoration for generations. This episode explores what we know about Martha&amp;rsquo;s life and her connection to Western Electric.&#xA;Early Life Martha was born in Chicago in 1897 to German immigrant parents. By 1915, she was working at Western Electric, the company that had chartered the Eastland for its annual employee picnic.</description>
+    </item>
+    <item>
+      <title>Thomas Marin: Discovered in the National Archives</title>
+      <link>https://example.org/episodes/thomas-marin/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/episodes/thomas-marin/</guid>
+      <description>Thomas Marin&amp;rsquo;s story illustrates how systematic archival research can uncover victims who have been missing from official counts for over a century.&#xA;The Discovery While reviewing National Archives records related to Eastland claims, I discovered documentation for Thomas Marin—a victim who does not appear in any of the established digital databases or death lists that have been maintained for decades.&#xA;Why This Matters The commercial &amp;ldquo;844&amp;rdquo; death toll that has been branded and marketed by heritage organizations is demonstrably incomplete.</description>
+    </item>
+    <item>
+      <title>The Forensic Feedback Loop: A Methodology for Disaster Research</title>
+      <link>https://example.org/research/forensic-feedback-loop/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/research/forensic-feedback-loop/</guid>
+      <description>Introduction Traditional disaster commemoration often freezes historical understanding at a specific moment, treating the event as closed and the victim count as final. This article proposes an alternative approach: the Forensic Feedback Loop, which treats historical disasters as ongoing investigations subject to continuous refinement through systematic research.&#xA;Components of the Forensic Feedback Loop 1. Forensic Genealogy Forensic genealogy applies law enforcement investigation techniques to historical research. This includes:&#xA;Systematic documentation with timestamped, legally admissible records Multiple source verification for every claim Pattern recognition across seemingly unrelated data sources Digital archaeology to track how information has been transformed or lost over time 2.</description>
+    </item>
+    <item>
+      <title>Post 3</title>
+      <link>https://example.org/posts/post-3/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>https://example.org/posts/post-3/</guid>
+      <description>Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum.</description>
+    </item>
+    <item>
+      <title>Post 2</title>
+      <link>https://example.org/posts/post-2/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://example.org/posts/post-2/</guid>
+      <description>Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.&#xA;Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia.</description>
+    </item>
+    <item>
+      <title>Post 1</title>
+      <link>https://example.org/posts/post-1/</link>
+      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
+      <guid>https://example.org/posts/post-1/</guid>
+      <description>Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&#xA;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea.</description>
+    </item>
+  </channel>
+</rss>
